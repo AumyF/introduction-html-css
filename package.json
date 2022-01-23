@@ -1,0 +1,17 @@
+{
+  "name": "introduction-html-css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "honkit build",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "honkit serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "honkit": "^3.7.1"
+  }
+}
